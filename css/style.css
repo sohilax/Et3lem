@@ -398,7 +398,7 @@ a:hover, a:active, a:focus {
   }
 
   .feature-thumb span {
-    background: #3f51b5;
+    background: #29ca8e;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
@@ -415,6 +415,44 @@ a:hover, a:active, a:focus {
     margin: 10px 0;
   }
 
+
+
+
+  
+/*---------------------------------------
+whoWeAre
+  -----------------------------------------*/
+
+  .WhoWeAre h6
+  {
+      text-transform: uppercase;
+      font-weight: 500;
+      font-size: 13px;
+      letter-spacing: 0.05em;  
+  }
+  .WhoWeAre p{
+      margin: 20px 0;
+      font-weight: 300;
+      font-size: 20px;
+      color: #787878;
+  
+  }
+  .WhoWeAre .btn
+  {
+      border: 1px solid;
+      color: #1f1f1f;
+      border-color: #dedede;
+      cursor: pointer;
+      text-align: center;
+      padding: 10px 30px;
+      transition: all .3s ease;
+      font-family: 'Poppins', sans-serif;
+  }
+  .WhoWeAre .btn:hover
+  {
+      background-color: #1f1f1f;
+      color: #fff; 
+  }
 
 
   /*---------------------------------------
